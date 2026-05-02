@@ -1,0 +1,2 @@
+# CATALYST-Context-Aware-Temporal-Attention-LSTM-for-Safety-Critical-Freeway-Anomaly-Detection
+CATALYST: Context-Aware Temporal Attention LSTM for Safety-Critical Freeway Anomaly Detection. A deep learning framework for real-time anomaly (crash) detection on freeway sensor data using BiLSTM and Bahdanau Attention. Handles extreme class imbalance (1000:1) with RUS+SMOTE. Achieves 95% accuracy and 100% recall.
