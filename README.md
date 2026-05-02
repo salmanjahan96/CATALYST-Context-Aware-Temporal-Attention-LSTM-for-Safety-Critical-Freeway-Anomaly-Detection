@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - **Hybrid Architecture** – BiLSTM + Bahdanau Attention + LSTM for sturdy sequence modeling.
 - **Extreme Imbalance Handling** – RUS + SMOTE strategy to avoid preference toward majority class.
@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 Performance Summary
+##  Performance Summary
 
 | Model      | Accuracy | F1‑Score | Recall | Precision | AUC‑ROC |
 |------------|----------|----------|--------|-----------|---------|
